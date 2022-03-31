@@ -1,9 +1,21 @@
 #img-bg {
-    background-image: url('https://i.imgur.com/jAZOVhd.jpg');
+    background-image: url('http://images6.fanpop.com/image/photos/43300000/Purple-Aesthetic-purple-43357402-720-1280.png');
 
     min-height: 695px;
 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.bg {
+    background-color: #6a2043;
+}
+
+.text {
+    color: #ffc0ae;
+}
+
+.corcaixa {
+    background-color: #f7cfff;
 }

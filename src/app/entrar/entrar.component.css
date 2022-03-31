@@ -1,9 +1,25 @@
 #img-bg {
-    background-image: url('https://i.imgur.com/xrJ9G3N.jpg');
+    background-image: url('https://i.pinimg.com/736x/61/f1/bf/61f1bf6bb91dd1dc445cdf6815b916fc.jpg');
 
     min-height: 695px;
 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.color {
+    background-color: #952e57;
+}
+
+.text {
+    color: #ffc0ae;
+}
+
+.cor {
+    background-color:#ffc0ae;
+}
+
+.corcaixa {
+    background-color: #f7cfff;
 }
