@@ -1,5 +1,8 @@
 # BlogPessoal
 
+<img scr='assets/img/entrar.png' alt='Preview do site'/>
+<img scr='assets/img/cadastrar.png' alt='Preview do site'/>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
