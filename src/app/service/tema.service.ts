@@ -16,7 +16,7 @@ export class TemaService {
     headers: new HttpHeaders().set('Authorization', environment.token)
   }
 
-  getAllTema(): Observable<Tema[]>{
+  getAllTemas(): Observable<Tema[]>{
     return this.http.get<Tema[]>('https://blogpessoaldacarolina.herokuapp.com/temas/all', this.token)
   }
 

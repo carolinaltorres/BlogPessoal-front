@@ -29,7 +29,7 @@ export class TemaComponent implements OnInit {
   }
 
   findAllTemas(){
-    this.temaService.getAllTema().subscribe((resp: Tema[]) =>{
+    this.temaService.getAllTemas().subscribe((resp: Tema[]) =>{
       this.listaTemas = resp
     })
   }
